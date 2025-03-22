@@ -11,7 +11,7 @@
 - 🔥 Passionate **Software Engineer & Digital Marketer**
 - 🎓 Graduate of **SMK Telekomunikasi Tunas Harapan (2025)**
 - 🛠️ Currently diving into **AI-powered E-commerce & Digital Solutions**
-- 🌍 Connect with me on [Instagram](https://www.instagram.com/rmahardhikasp/) | [GitHub](https://github.com/auto-777/)
+- 🌍 Connect with me on [Instagram](https://www.instagram.com/rmahardhikasp/) | [GitHub](https://github.com/rmahardhikasp17/)
 
 ---
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=auto-777&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=auto-777&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rmahardhikasp17&layout=compact&theme=radical"/>
 </p>
 
 ---
