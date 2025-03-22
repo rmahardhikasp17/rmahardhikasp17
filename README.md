@@ -1,7 +1,7 @@
 <h1 align="center">Halo Semua! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&width=435&lines=Selamat+Datang+di+Profil+GitHub+Saya!;Saya+Raihan+Mahardhika;Curriculum+Developer+di+Dicoding;Software+Engineer+Lulusan+SMK+Telekomunikasi+Tunas+Harapan">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&width=500&lines=Selamat+Datang+di+Profil+GitHub+Saya!;Saya+Raihan+Mahardhika;Curriculum+Developer+di+Dicoding;Software+Engineer+Lulusan+SMK+Telekomunikasi+Tunas+Harapan">
 </p>
 
 ---
@@ -29,11 +29,11 @@ Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/) d
 ---
 
 ## 📊 **Statistik GitHub**
-<p align="center">
-  <a href="https://github.com/auto-777">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auto-777&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auto-777&layout=compact&theme=tokyonight"/>
-  </a>
+<p align="left">
+<a href="https://github.com/auto-777">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=auto-777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=auto-777&layout=compact&layout=compact&theme=algolia"/>
+</a>
 </p>
 
 ---
@@ -41,9 +41,9 @@ Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/) d
 ## 📜 **Sertifikat Saya**
 Berikut adalah beberapa sertifikat yang telah saya peroleh:
 
-1. 📄 [Sertifikat Course 123](https://github.com/user-attachments/files/18472052/sertifikat_course_123_4423108_200125100858.pdf)  
-2. 📄 [Sertifikat Course 317](https://github.com/user-attachments/files/18472054/sertifikat_course_317_4423108_200125105010.pdf)  
-3. 📄 [Sertifikat 9 Raihan Mahardhika](https://github.com/user-attachments/files/18472133/9.RAIHAN.MAHARDHIKA.SHIDDIQ.PRAMONO.pdf)  
+📄 [Sertifikat Course 123](https://github.com/user-attachments/files/18472052/sertifikat_course_123_4423108_200125100858.pdf)  
+📄 [Sertifikat Course 317](https://github.com/user-attachments/files/18472054/sertifikat_course_317_4423108_200125105010.pdf)  
+📄 [Sertifikat 9 Raihan Mahardhika](https://github.com/user-attachments/files/18472133/9.RAIHAN.MAHARDHIKA.SHIDDIQ.PRAMONO.pdf)  
 
 ---
 
